@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="exp3_342_windowform.AdminView">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="addressBox" Hidden="true" />
+      <Field Name="adminsList" Hidden="true" />
+      <Field Name="adminTabs" Hidden="true" />
+      <Field Name="analyzeTab" Hidden="true" />
+      <Field Name="analyzeView" Hidden="true" />
+      <Field Name="assignManagersTab" Hidden="true" />
+      <Field Name="assignTaskTab" Hidden="true" />
+      <Field Name="birthDayBox" Hidden="true" />
+      <Field Name="cityComboBox" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="createNewEmail" Hidden="true" />
+      <Field Name="createNewEmployee" Hidden="true" />
+      <Field Name="createNewPassAgain" Hidden="true" />
+      <Field Name="createNewProjectTab" Hidden="true" />
+      <Field Name="createNewSaveButton" Hidden="true" />
+      <Field Name="createNewUserNameBox" Hidden="true" />
+      <Field Name="createPasswordBox" Hidden="true" />
+      <Field Name="demoteButton" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="editInfo" Hidden="true" />
+      <Field Name="editInfoSave" Hidden="true" />
+      <Field Name="employeeList" Hidden="true" />
+      <Field Name="employees" Hidden="true" />
+      <Field Name="employeesComboBox" Hidden="true" />
+      <Field Name="employeeTab" Hidden="true" />
+      <Field Name="femaleButton" Hidden="true" />
+      <Field Name="filterUsers" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label17" Hidden="true" />
+      <Field Name="label18" Hidden="true" />
+      <Field Name="label19" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label20" Hidden="true" />
+      <Field Name="label21" Hidden="true" />
+      <Field Name="label22" Hidden="true" />
+      <Field Name="label23" Hidden="true" />
+      <Field Name="label24" Hidden="true" />
+      <Field Name="label25" Hidden="true" />
+      <Field Name="label26" Hidden="true" />
+      <Field Name="label27" Hidden="true" />
+      <Field Name="label28" Hidden="true" />
+      <Field Name="label29" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="loginInfo" Hidden="true" />
+      <Field Name="loginInfoSave" Hidden="true" />
+      <Field Name="loginStatus" Hidden="true" />
+      <Field Name="logo" Hidden="true" />
+      <Field Name="logoutButton" Hidden="true" />
+      <Field Name="makeManagerButton" Hidden="true" />
+      <Field Name="maleButton" Hidden="true" />
+      <Field Name="monthsComboBox" Hidden="true" />
+      <Field Name="nameBox" Hidden="true" />
+      <Field Name="newProjectCancelButton" Hidden="true" />
+      <Field Name="newProjectDescBox" Hidden="true" />
+      <Field Name="newProjectNameBox" Hidden="true" />
+      <Field Name="newProjectSaveButton" Hidden="true" />
+      <Field Name="newTaskAssignCal" Hidden="true" />
+      <Field Name="newTaskAssignEmp" Hidden="true" />
+      <Field Name="newTaskAssignProj" Hidden="true" />
+      <Field Name="newTaskDescBox" Hidden="true" />
+      <Field Name="newTaskSaveButton" Hidden="true" />
+      <Field Name="normalUsersList" Hidden="true" />
+      <Field Name="notificationsTab" Hidden="true" />
+      <Field Name="notificationsView" Hidden="true" />
+      <Field Name="passwordAgain" Hidden="true" />
+      <Field Name="passwordBox" Hidden="true" />
+      <Field Name="personalInfoTab" Hidden="true" />
+      <Field Name="phoneBox" Hidden="true" />
+      <Field Name="projectList" Hidden="true" />
+      <Field Name="projectName" Hidden="true" />
+      <Field Name="projectsTab" Hidden="true" />
+      <Field Name="registeredEmployee" Hidden="true" />
+      <Field Name="removeEmployee" Hidden="true" />
+      <Field Name="removeEmployeeButton" Hidden="true" />
+      <Field Name="showNotificationsTab" Hidden="true" />
+      <Field Name="showTaskEmployeesList" Hidden="true" />
+      <Field Name="showTasksProjectList" Hidden="true" />
+      <Field Name="showTasksTab" Hidden="true" />
+      <Field Name="showTasksView" Hidden="true" />
+      <Field Name="splitContainer1" Hidden="true" />
+      <Field Name="splitContainer2" Hidden="true" />
+      <Field Name="splitContainer3" Hidden="true" />
+      <Field Name="splitContainer4" Hidden="true" />
+      <Field Name="surnameBox" Hidden="true" />
+      <Field Name="systemManagersTab" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabControl2" Hidden="true" />
+      <Field Name="tabControl3" Hidden="true" />
+      <Field Name="tabControl4" Hidden="true" />
+      <Field Name="tabControl5" Hidden="true" />
+      <Field Name="tabControl6" Hidden="true" />
+      <Field Name="tasksTab" Hidden="true" />
+      <Field Name="totalHourView" Hidden="true" />
+      <Field Name="totalWorkedHour" Hidden="true" />
+      <Field Name="viewProjectsTab" Hidden="true" />
+      <Field Name="yearsComboBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>/wsJ0QoUiGVVCDGCKBOKRhgDcV48oaSXASPjYoGqRbg=</HashCode>
+      <FileName>AdminView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.EmployeeView">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="addressBox" Hidden="true" />
+      <Field Name="assignedWorksTab" Hidden="true" />
+      <Field Name="birthDayBox" Hidden="true" />
+      <Field Name="cityComboBox" Hidden="true" />
+      <Field Name="completedTasksTab" Hidden="true" />
+      <Field Name="completedTasksView" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="editInfo" Hidden="true" />
+      <Field Name="editInfoSave" Hidden="true" />
+      <Field Name="employeeTabs" Hidden="true" />
+      <Field Name="femaleButton" Hidden="true" />
+      <Field Name="hourWorkedBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="incompleteTasksTab" Hidden="true" />
+      <Field Name="incompleteTasksView" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label16" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="label9" Hidden="true" />
+      <Field Name="loginInfo" Hidden="true" />
+      <Field Name="loginInfoSave" Hidden="true" />
+      <Field Name="loginStatus" Hidden="true" />
+      <Field Name="logo" Hidden="true" />
+      <Field Name="logoutButton" Hidden="true" />
+      <Field Name="maleButton" Hidden="true" />
+      <Field Name="nameBox" Hidden="true" />
+      <Field Name="notificationDescBox" Hidden="true" />
+      <Field Name="notificationList" Hidden="true" />
+      <Field Name="notificationSaveButton" Hidden="true" />
+      <Field Name="notificationsTab" Hidden="true" />
+      <Field Name="notifyTab" Hidden="true" />
+      <Field Name="passwordAgain" Hidden="true" />
+      <Field Name="passwordBox" Hidden="true" />
+      <Field Name="personalInfoTab" Hidden="true" />
+      <Field Name="phoneBox" Hidden="true" />
+      <Field Name="projectWorkedList" Hidden="true" />
+      <Field Name="recentNotifiesTab" Hidden="true" />
+      <Field Name="splitContainer1" Hidden="true" />
+      <Field Name="surnameBox" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabControl2" Hidden="true" />
+      <Field Name="tabControl3" Hidden="true" />
+      <Field Name="workDate" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>9wAIgAIQACFQDTEYAhGCAoACA0QAAYJTASEhEACSZIg=</HashCode>
+      <FileName>EmployeeView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.InputBox">
+    <Position X="12" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAQACQAABAAAACAAAACAAApAAAIABAQAAAAAAQ=</HashCode>
+      <FileName>InputBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.LoginView">
+    <Position X="9.75" Y="7" Width="4.25" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="exitButton" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="loginButton" Hidden="true" />
+      <Field Name="logo" Hidden="true" />
+      <Field Name="mailBox" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="passwordBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAASFAABRAIACAAAACAAQAAAAAAAABAQAAAAA=</HashCode>
+      <FileName>LoginView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Notification">
+    <Position X="3.25" Y="9.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAACQgAAAEAABAAACAAAAAAAAwAAQIAAAAAAA=</HashCode>
+      <FileName>Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Person">
+    <Position X="0.5" Y="9.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAMAAEAGACAAGMAAAAAEQADBAIAAAKAQJAIAAGABE=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Program">
+    <Position X="9.75" Y="5.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Project">
+    <Position X="3.25" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAgAAAEAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Task">
+    <Position X="6" Y="4.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAChAAAEGABAAAAACAgAAAAxAAAAAAAIAgA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.TaskEditBox">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAABAAEACAAgCWABAIABIAABAQAAAAAAA=</HashCode>
+      <FileName>TaskEditBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exp3_342_windowform.Properties.Resources">
+    <Position X="6" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAABAQAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
